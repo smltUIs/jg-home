@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="360f150d-88bf-404b-b4fe-d8c94364563e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/css/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/1212.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/banner-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/banner-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/banner-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/banner-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/banner-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/banner-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/banner-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/header-03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/headerimg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/jiantou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/jiantou02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/sale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/sec-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/sec-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/sec-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/sec-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/sec-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/sec-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/sec-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/sec-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/sec-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/sec-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/shop-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/shop-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/shop-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/shop-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/shop-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/shop-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/shop-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/shop-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/shop-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/shop-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/shop-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/show-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/show-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/show-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/store-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/store-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/store-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/store-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/images/xia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/js/jquery-1.9.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/assets/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/NotLogForm/NotLogFormFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/NotLogForm/NotLogFormHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/NotLogShop/NotLogShopFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/NotLogShop/NotLogShopHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/ShopClass/ShopClassCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/ShopClass/ShopClassCenterLeft.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/ShopClass/ShopClassCenterRight.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/ShopClass/ShopClassFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/ShopClass/ShopClassHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/StoreGood/StoreGoodCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/StoreGood/StoreGoodFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/StoreGood/StoreGoodHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/StoreGood/StoreGoodListTab.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/StoreGood/StoreGoodListTabShop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/StoreGood/StoreGoodShopName.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/index/IndexBanner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/index/IndexCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/index/IndexCenterSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/index/IndexDiscount.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/index/IndexFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/index/IndexFull.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/index/IndexHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/index/IndexNearByStore.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/index/IndexSeckill.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/index/IndexShowShop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/my/MyCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/my/MyFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/my/MyHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/my/MyIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/my/MyWallet.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/particularShop/ParticularShopEvaluate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/particularShop/ParticularShopExplain.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/particularShop/ParticularShopIntroduce.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/particularShop/ParticularShopPromotion.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/particularShop/ParticularShopSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/particularShop/particularShopCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/particularShop/particularShopFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/particularShop/particularShopHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/supermarket/supermarketBanner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/supermarket/supermarketCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/supermarket/supermarketDiscount.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/supermarket/supermarketFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/components/supermarket/supermarketHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/pages/NotLogForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/pages/NotLogShop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/pages/ParticularShop.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/pages/ShopClass.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/pages/StoreGood.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/pages/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/pages/my.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/pages/supermarket.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1212.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/header-03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/headerimg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jiantou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jiantou02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sec-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sec-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sec-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sec-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sec-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sec-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sec-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sec-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sec-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sec-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/show-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/show-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/show-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/store-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/store-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/store-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/store-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xia.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="320" />
+    <option name="y" value="90" />
+    <option name="width" value="1195" />
+    <option name="height" value="885" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="static" type="b2602c69:ProjectViewProjectNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="360f150d-88bf-404b-b4fe-d8c94364563e" name="Default Changelist" comment="" />
+      <created>1545372721399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545372721399</updated>
+      <workItem from="1545372722542" duration="110000" />
+      <workItem from="1545372848416" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="116000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

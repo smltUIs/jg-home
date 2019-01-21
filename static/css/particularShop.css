@@ -1,0 +1,374 @@
+@charset "utf-8";
+body,p,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,td,input,select,option,textarea{
+    margin:0;
+    padding:0;
+}
+*{
+    padding:0;
+    margin:0;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+body{
+    font-family:"微软雅黑";
+    background: #f2f2f2;
+    display:flex;
+    flex-direction: column;
+    height:100%;
+}
+img{
+    display: block;
+    border:none;
+}
+input{
+    outline:none;
+    border:none;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+html{
+    font-size:26.67vw;
+}
+.center{
+    flex: 1;
+    height: 100%;
+    overflow-y:scroll;
+}
+/*.banner*/
+.banner{
+    width:100%;
+    height:3.6rem;
+}
+.banner img{
+    width: 100%;
+    height: 3.6rem;
+}
+/*countdownKill*/
+.countdownKill{
+    width: 100%;
+    height: 0.36rem;
+    background-color: #ffeaea;
+    line-height: 0.36rem;
+    text-align: center;
+    color:#ff5757;
+    font-size: 0.11rem;
+}
+/*section*/
+.section{
+    width: 100%;
+    height: 0.5rem;
+    /*overflow: hidden;*/
+    line-height: 0.22rem;
+    background: #ffffff;
+}
+.section-01{
+    color:#1d1d1d;
+    font-size:0.15rem;
+    margin-left: 0.08rem;
+    padding-top: 0.08rem;
+}
+.section-02{
+    color:#a2a2a2;
+    font-size:0.11rem;
+    margin-left: 0.05rem;
+}
+/*.addShop*/
+.addShop{
+    width: 100%;
+    height: 0.4rem;
+    line-height: 0.4rem;
+    background: #ffffff;
+}
+.label-01 {
+    color: #ff3434;
+    font-size: 0.17rem;
+    float: left;
+    margin-left: 0.1rem;
+    margin-right: 0.02rem;
+}
+.label-02{
+    color:#999;
+    font-size: 0.1rem;
+    float: left;
+    text-decoration: line-through;
+}
+.spa1{
+    color: #fff;
+    font-size: 0.17rem;
+    padding: 0 0.1rem;
+    background: #45b44d;
+    float: right;
+    border-radius: 0.01rem;
+    margin-right: 0.1rem;
+}
+/*.promotion*/
+.promotion{
+    /*width: 100%;*/
+    height:0.81rem;
+    background: #ffffff;
+    padding-left: 47px;
+}
+.promotionLi-01{
+    line-height: 20px;
+    padding: 15px 35px 15px 0;
+    margin-top: 0;
+    color: #333333;
+    font-size: 12px;
+    overflow: visible;
+    margin-left: -28px;
+}
+.promotionSpan-01{
+    position: relative;
+    top: -2px;
+    left: -12px;
+    line-height: 20px;
+    font-size: 12px;
+    float: left;
+}
+.promotionSpan-02{
+    float: left;
+}
+.miao{
+    color: #fff;
+    font-size: 0.08rem;
+    padding: 0.03rem;
+    background: #ff5739;
+    border-radius: 4px 1px;
+}
+.promotionSpan-03{
+    display: inline-block;
+    padding: 0px 3px;
+    font-size: 10px;
+    height: 14px;
+    line-height: 14px;
+    border-radius: 4px 1px;
+    color: #fff;
+    z-index: 1;
+}
+.promotionSpan-04{
+    color:#181818;
+    font-size:0.1rem;
+}
+.sha{
+    color: #fff;
+    font-size: 0.08rem;
+    padding: 0.03rem;
+    background: #6dc05f;
+    border-radius: 4px 1px;
+    margin-right: 0.06rem;
+}
+.promotionLi-02{
+    line-height: 20px;
+    padding: 15px 35px 15px 0;
+    margin-top: 0;
+    color: #333333;
+    font-size: 12px;
+    overflow: visible;
+}
+.promotionSpan-05{
+    float: left;
+}
+.promotionSpan-06{
+    float: left;
+}
+.promotionSpan-07{
+    color:#181818;
+    font-size:0.1rem;
+}
+/*shopDescribe*/
+.shopDescribe{
+    width: 100%;
+    height: 0.65rem;
+    background: #fff;
+    margin-top: 0.05rem;
+}
+.fm{
+    color: #000;
+    font-size:0.13rem;
+    padding: 0.15rem 0 0 0.14rem;
+}
+.fn{
+    color: #272727;
+    font-size:0.11rem;
+    padding-left: 0.14rem;
+    margin-bottom: 0.15rem;
+}
+/*contactShop*/
+.contactShop{
+    width: 100%;
+    height: 0.55rem;
+    margin-top: 0.05rem;
+    background: #fff;
+    border-bottom: 1px solid #f2f2f2;
+}
+.fz{
+    position: relative;
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    width: 65%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.fz:after {
+    content: '';
+    width: 1px;
+    height: 20px;
+    border-right: 1px solid #d9d9d9;
+    position: absolute;
+    top: 15px;
+    right: 0;
+}
+.contactShop span{
+    color: #000;
+    font-size:0.13rem;
+    float: left;
+}
+.fz,.fx{
+    float:left;
+}
+.contactShop img{
+    width: 0.2rem;
+    height: 0.2rem;
+    display: inline;
+    float: left;
+    margin: 0.15rem 0.08rem 0 0.15rem;
+}
+.fxSpan{
+    margin-top: 0.15rem;
+}
+/*evaluate*/
+.evaluate{
+    width: 100%;
+    height: 0.52rem;
+    background: #fff;
+    float: left;
+}
+.comment-title{
+    font-size: 15px;
+    color: #333333;
+    margin-left: 0.1rem;
+    float: left;
+    margin-top: 0.1rem;
+}
+.hn{
+    color: #999999;
+    font-size: 12px;
+    padding-left: 4px;
+}
+.ho {
+    margin-top: 10px;
+    padding-bottom: 20px;
+    position: relative;
+    margin-left: 0.1rem;
+    top: 33px;
+}
+.ho .hp {
+    position: relative;
+    margin-right: 70px;
+    background-color: #e8e8e8;
+    height: 3px;
+    border-radius: 2px;
+}
+.ho .hp .hq {
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #47b34f;
+    height: 3px;
+    border-radius: 2px;
+}
+.ho .ht {
+    position: absolute;
+    right: 9px;
+    top: -11px;
+    font-size: 12px;
+    color: #21a12b;
+}
+/*shoplistInfo*/
+.shoplistInfo{
+    background: #fff;
+}
+.fzb{
+    background-color: #fff;
+    color: #333;
+    line-height: 50px;
+    font-size: 15px;
+    padding: 0 10px;
+    margin-top: 0.2rem;
+}
+
+.introduce img{
+    width: 100%;
+    height: auto;
+    display: block;
+    float: left;
+}
+/*footer*/
+.mp{
+    color:#333333;
+    font-size:15px;
+    margin-bottom:10px;
+    text-align:left;
+    margin-left: 0.05rem;
+    margin-top: 0.08rem;
+}
+.mo{
+    color:#333333;
+    font-size:12px;
+    line-height:17px;
+    margin-bottom:10px;
+    margin-left: 0.05rem;
+}
+.str{
+    font-weight:bold;
+}
+.span11{
+    color: #666666;
+}
+/*固定*/
+.gu-01{
+    display: none;
+    position: absolute;
+    z-index: 16;
+    left: 0;
+    top: 5.85rem;
+    right: 0;
+    overflow: hidden;
+    font-size: 12px;
+    line-height: 17px;
+    text-align: center;
+    background-color: #FFF7CE;
+    color: #C47700;
+    padding: 8px 10px 7px 10px;
+}
+.gu-02{
+    width: 100%;
+    height: 0.5rem;
+    background: url(../images/cart.png) no-repeat;
+    background-size: 48px;
+    background-position: 10px 2px;
+    border-top: 1px solid #f2f2f2;
+}
+.cartInfo{
+    font-size: 14px;
+    color: #999;
+    float: left;
+    margin-left: 0.7rem;
+    margin-top: 0.15rem;
+}
+.close{
+    color:#fff;
+    font-size:0.15rem;
+    padding: 0.15rem 0.32rem;
+    background: #bfbfbe;
+    float: right;
+}

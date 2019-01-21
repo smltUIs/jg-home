@@ -1,0 +1,216 @@
+@charset "utf-8";
+body,p,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,td,input,select,option,textarea{
+    margin:0;
+    padding:0;
+}
+*{
+    padding:0;
+    margin:0;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+body{
+    font-family:"微软雅黑";
+    display:flex;
+    flex-direction: column;
+    height:100%;
+    background: #f4f4f4;
+}
+img{
+    display: block;
+    border:none;
+}
+input{
+    outline:none;
+    border:none;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+html{
+    font-size:26.67vw;
+}
+.center{
+    flex: 1;
+    height: 100%;
+    overflow-y:scroll;
+}
+/*.header*/
+.header{
+    width: 100%;
+    height: 1.2rem;
+    background: #fefefe;
+    background: url(../images/my-01.png) center bottom no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.dve{
+    width: 100%;
+    height: 0.35rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.dev-01,.dev-02{
+    width:0.2rem;
+    height:0.2rem;
+    float: right;
+}
+.dev-01{
+    margin-right: 0.1rem;
+ }
+.dev-02{
+    margin-right: 0.14rem;
+}
+.user{
+    width: 100%;
+    height: 0.6rem;
+}
+.userImg{
+    width:0.6rem;
+    height:0.6rem;
+    margin-left: 0.09rem;
+    border-radius: 50%;
+    float: left;
+}
+.login{
+    float: left;
+    padding: 0.06rem 0.08rem;
+    color: #fff;
+    border-radius: 2px;
+    font-size: 0.15rem;
+    letter-spacing: 1px;
+    background-color: #69c575;
+    margin-left: 0.1rem;
+    margin-top: 0.12rem;
+}
+/*wallet*/
+.wallet{
+    width: 100%;
+    height: 0.61rem;
+    margin-top: 0.02rem;
+    background: #fefefe;
+    margin-bottom: 0.1rem;
+}
+.wallet ul{
+    width: 100%;
+    height: 0.61rem;
+}
+.wallet ul li{
+    width: 25%;
+    height: 0.61rem;
+    float: left;
+    display: flex;
+    align-items: center;
+}
+.wallet ul li a{
+    text-align: center;
+    margin: 0 auto;
+}
+.walletImg{
+    width:0.23rem;
+    height:0.2rem;
+    margin-left: 0.08rem;
+    margin-top: 0.06rem;
+}
+.wallSpan{
+    color:#616161;
+    font-size:0.1rem;
+    float: left;
+}
+.wz{
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    font-size: 14px;
+    color: #323232;
+}
+/*redPacket*/
+.redPacket {
+    width: 100%;
+    height: 0.74rem;
+    background: #fefefe;
+}
+.redPacketImg{
+    width: 3.46rem;
+    height: 0.68rem;
+    margin: 0 auto;
+}
+/*myIcon*/
+.myIcon{
+    width: 100%;
+    /*height: 0.88rem;*/
+    background: #fefefe;
+}
+.icon-01{
+    width: 100%;
+    /*height: 0.88rem;*/
+    height: 3.5rem;
+    background: #fefefe;
+    border-bottom: 1px solid #f4f4f4;
+}
+.icon-02{
+    width: 25%;
+    height: 0.88rem;
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+.icon-03{
+    display: block;
+}
+.icon-04{
+    width: 0.45rem;
+    height:0.45rem;
+    margin-bottom: 0.1rem;
+}
+.icon-05{
+    color:#303030;
+    font-size:0.11rem;
+    float: left;
+}
+.iconend{
+    border-bottom: none;
+}
+/*footer 版块⑩*/
+.footer{
+    width: 100%;
+    height: 0.65rem;
+    line-height: 0.65rem;
+    background: #fefefe;
+    border-top: 1px solid #dcdcdc;
+}
+.footer .foot{
+    color: #636363;
+    font-size: 0.09rem;
+    float: left;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    line-height: 0.35rem;
+    text-align: center;
+    padding-top: 0.32rem;
+    background: url(../images/footer.png) no-repeat;
+    background-size: 24px 600px;
+    background-position: center 2px;
+}
+.footer .footer-01 {
+    background-position: center -232px;
+}
+.footer .footer-02{
+    background-position: center -283px;
+}
+.footer .footer-03{
+    background-position: 26px -333px;
+}
+.footer .footer-04{
+    background-position: center -382px;
+}
+.footer .footer-05{
+    background-position: center -182px;
+}
